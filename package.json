@@ -1,5 +1,5 @@
 {
-  "name": "portfolio",
+  "name": "proposal",
   "private": true,
   "scripts": {
     "dev": "next dev",
